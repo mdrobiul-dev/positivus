@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Navbar = () => {
+    //   this is dev 7 changes made
   return (
     <section className='mt-10 mb-17.5'>
         <div className='flex items-center box justify-between'>
