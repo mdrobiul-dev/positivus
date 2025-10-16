@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    // this is dev 1 changes 
+    // this  dev 1 make changes again
     <section className='mt-10 mb-17.5'>
         <div className='flex items-center box justify-between'>
            <div className='w-fit h-fit'>
