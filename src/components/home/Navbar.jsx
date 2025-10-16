@@ -4,6 +4,7 @@ const Navbar = () => {
   return (
     // this  dev 1 make changes again
     // this is dev 2 changes
+    // this is dev 3
     <section className='mt-10 mb-17.5'>
         <div className='flex items-center box justify-between'>
            <div className='w-fit h-fit'>
